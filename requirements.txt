@@ -1,0 +1,7 @@
+langchain
+openai
+gymnasium
+ray[rllib]
+playwright
+beautifulsoup4
+requests
